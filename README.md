@@ -153,8 +153,8 @@ http://127.0.0.1:5000/
 
 ### 1️⃣ Home Page
 
-```
-[Insert Screenshot Here]
+```<img width="1144" height="495" alt="image" src="https://github.com/user-attachments/assets/728e0bab-4355-4e90-acab-6a9980ba45af" />
+
 ```
 
 ### 2️⃣ Events List
