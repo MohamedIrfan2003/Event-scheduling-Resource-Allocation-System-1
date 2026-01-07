@@ -147,53 +147,6 @@ http://127.0.0.1:5000/
 
 ---
 
-## 🖼️ Screenshots (Add Your Own)
-
-> 📸 **Note:** Add screenshots after running the application.
-
-### 1️⃣ Home Page
-
-```<img width="1144" height="495" alt="image" src="https://github.com/user-attachments/assets/728e0bab-4355-4e90-acab-6a9980ba45af" />
-
-```
-
-### 2️⃣ Events List
-
-```
-[Insert Screenshot Here]
-```
-
-### 3️⃣ Add Event Form
-
-```
-[Insert Screenshot Here]
-```
-
-### 4️⃣ Resources List
-
-```
-[Insert Screenshot Here]
-```
-
-### 5️⃣ Allocate Resource Page
-
-```
-[Insert Screenshot Here]
-```
-
-### 6️⃣ Allocation View
-
-```
-[Insert Screenshot Here]
-```
-
-### 7️⃣ Utilization Report
-
-```
-[Insert Screenshot Here]
-```
-
----
 
 ## 📌 Future Enhancements (Optional)
 
@@ -210,4 +163,3 @@ Developed as part of an **Event Scheduling & Resource Allocation System project*
 
 ---
 
-✅ *This README is suitable for academic submission, GitHub projects, and internal documentation.*
